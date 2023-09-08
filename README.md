@@ -1,5 +1,5 @@
 # DynamiteGPT
-List articles with code and public datataset using LLM. 
+List articles with code and fast growing public datataset using LLM. 
 AI_Talent_Hub2023 product
 
 
