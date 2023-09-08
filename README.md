@@ -14,6 +14,8 @@ Demo https://2b95cc7bef0e99b5cb.gradio.live (link expires in 72 hours
 В принципе это частично решается и регуляркой (по списку рулов можно тоже определять), но если нам нужно LLM, будет LLM:  https://github.com/imartinez/privateGPT
 
 Модель ggml self-hosted без файнтюна для прототипа. Эксперимент с kobold.cpp - по 3 GPU научились параллелить
+![image](https://github.com/korziner/DynamiteGPT/assets/1572185/fa6df6a3-321a-423f-b513-0a47e5bbe793)
+
 
 
 
@@ -38,3 +40,14 @@ It'll take up roughly 300GB of disk space.
     aws s3 sync "s3://openalex" "openalex-snapshot" --no-sign-request
 
 https://docs.openalex.org/download-all-data/download-to-your-machine
+
+TODO
+![image](https://github.com/korziner/DynamiteGPT/assets/1572185/f5bcc72c-3836-4709-a55d-773ccb7d1fa8)
+
+-Сопроцессор смартфона упомянут Михаилом
+-Алексей спрашивал какие нейронки можем запускать на имеющемся оборудовании
+-DSP моего смартфона набирает высокие баллы в AI Benchmark
+
+3 этих пункта складываются в дополнение нашего продукта мобильной версией.
+
+Распределенные вычисления на Julia на многих смартфонах студентов -предпочтительный стек.
