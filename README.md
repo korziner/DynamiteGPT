@@ -19,7 +19,7 @@ Demo https://2b95cc7bef0e99b5cb.gradio.live (link expires in 72 hours
 
 Выбрана 
 https://huggingface.co/TheBloke/medalpaca-13B-GGML
-в прицелом на мультимодальность: https://cambridgeltl.github.io/visual-med-alpaca/
+с прицелом на мультимодальность в расширенных платных версиях опенсорсного продукта (плата за минуты имеющейся GPU Tesla): https://cambridgeltl.github.io/visual-med-alpaca/
 ![image](https://github.com/korziner/DynamiteGPT/assets/1572185/a46ebea8-9874-42b5-8e29-d1ba5dab0eb9)
 
 
