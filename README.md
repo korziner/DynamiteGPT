@@ -5,7 +5,7 @@ AI_Talent_Hub2023 product
 
 
 
-
+LLM reads all articles to the vhe vector DB:
 legal alternative to sci-hub.tw is Unpaywall.
 
 We harvest content directly from over 50,000 journals and open-access repositories from all over the world. We also use great open data from PubMed Central...
