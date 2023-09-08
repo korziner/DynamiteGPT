@@ -3,6 +3,7 @@ List articles with code and fast growing public datataset using LLM.
 AI_Talent_Hub2023 product
 
 
+Demo https://2b95cc7bef0e99b5cb.gradio.live (link expires in 72 hours)
 
 
 LLM reads all articles to the its vector DB:
