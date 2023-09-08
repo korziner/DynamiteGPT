@@ -1,0 +1,53 @@
+
+Find code references in the article and see if the omnix data is public?
+Are there any references to the code in this article? Is the omics data public?
+1. Please check if the article provides a link to the code and omics data, and if they are publicly available.
+2. What is the link to the code and omics public mentioned in this article?
+3. Please generate a link to the code and\ omics public mentioned in the article.
+4. Please help me find the link to the code and omics public in this article. The article is titled _ and it discusses _. I need to access the code and omics public for further analysis and research.
+5. Please provide the title or a brief description of the article you are referring to.
+6. Please provide the article in question so that I can generate a specific query.
+7. Please provide the article you mentioned so that I can help you find the link to the code and omics public.
+8. Please provide me the link to the code and the omics public resource mentioned in the article.
+9. I want you to act as a code and omics developer. I will provide you with the code, and you will act as an omics engineer. You will provide me with the omics, and I will give you the code. My first request is "I need help creating a new omics app for my company.
+10. Please provide the article or publication you are referring to.
+11. Please find and list any code references mentioned in the article. Additionally, determine if the omnix data mentioned in the article is public or not.
+12. Determine the presence of code references in the given article and verify the accessibility of the omnix data.	
+13. What are the code references mentioned in the article? Is the omnix data publicly available?
+14. I want you to act as a code and omics developer. I will provide you with the code, and you will act as an omics engineer. You will provide me with the omics, and I will give you the code. My first request is "I need help creating a new omics app for my company."
+15. List code references in the article and determine the availability of the omnix data. 
+16. Please find all code references in the article regarding the omnix data and determine if it is publicly available.
+17. Find code references in the article and determine whether the article states that the omnix data is publicly accessible.
+18. Please find and extract code references from the article and state whether it explicitly mentions whether the omnix data is publicly accessible or not.
+19. List all code references in the article that mention the 'omnix' data and determine if the 'omnix' data is public.  
+20. Determine if the article provides any code references and ascertain whether the omnix data is publicly accessible.
+21. Does the article contain any code references and specify if the omnix data is public?
+22. Determine if the omnix data referenced in the article is publicly available.   
+23. Please search the article for any code references. Once you find the relevant code, determine if the omnix data mentioned in the code is publicly available.
+24. Search for code references in the article to determine the accessibility of omnix data. 
+25. I want you to act as an omnix developer. I will provide you with the omnix data, and you will act as a code analyzer. You will analyze the data and come up with code that can be used to analyze it. My first request is "I need you to create a new omnix application. I need it to analyze my omnix dataset
+26. Identify code references in the article and determine whether the omnix data is publicly available. To answer the question, please find any mentioned code references in the article and provide information on whether the omnix data is accessible to the public
+27. Determine if the code references in the article indicate the public availability of the omnix data.
+28. Please search the given article for code references and determine if the omnix data is publicly accessible.  
+29. Generate code references and check if the Omnix data is public based on the provided article. 
+30. The article discusses various aspects related to a technology called omnix. It includes references to code snippets and mentions the availability of omnix data. I need you to review the article, identify any code references, and determine whether the omnix data is accessible to the public.
+31. Find any code references mentioned in the article and determine if the omnix data is public.
+32. Omnix data public availability
+33. Identify the code references mentioned in the article and determine whether the omnix data is publicly accessible
+34. Find the code references mentioned in the article related to the omnix data, and indicate whether the omnix data is accessible to the public
+35. I want you to act as an omnix developer. I will provide you with the omnix data, and you will act as a code analyzer. You will analyze the data and come up with code that can be used to analyze it. My first request is "I need you to create a new omnix application. I need it to analyze my omnix dataset.
+36. Identify code references in the article regarding the availability of the omnix data to the public
+37. Code references in the article: 1. Search for any code snippets, functions, or programming examples mentioned in the article. Regarding the omnix data, determine if it is public or not.
+38. Retrieve code references in the article that mention the "omnix data" and determine if the data is publicly accessible.
+39. Read the article and locate any code references that mention the "omnix data."
+40. Provide a list of the code references found in the article.
+41. Determine whether the "omnix data" is publicly accessible based on the information mentioned in the article.
+42. Can you provide references to the code mentioned in this article and information about the availability of public omics data?
+43. Please provide a list of references to the code mentioned in the article and indicate whether the omics data mentioned is publicly available.
+44. Please provide any references to the code mentioned in the article. Additionally, is the omics data mentioned in the article publicly available?
+45. I want you to act as an omnix developer. I will provide you with the omnix data, and you will act as a code analyzer. You will analyze the data and come up with code that can be used to analyze it. My first request is "I need you to create a new omnix application. I need it to analyze my omnix dataset."
+46. Does this article contain references to the code? Is the omics data mentioned in the article public?
+47. What is mentioned in the article about code references? Is the omics data mentioned in the article publicly available?
+48. Generate a list of references related to the code mentioned in the article, if any are present. Also, confirm whether the omics data mentioned in the article is publicly available.
+49. Please provide the title and/or URL of the article you are referring to. Additionally, please let me know specifically which code you are referring to and the type of omics data you are interested in.
+50. Please provide me with any references to the code mentioned in this article and let me know if the omics data is available to the public
