@@ -13,6 +13,7 @@ https://opendata.stackexchange.com/questions/7084/bulk-download-sci-hub-papers
 
 
 It'll take up roughly 300GB of disk space.
+
     aws s3 sync "s3://openalex" "openalex-snapshot" --no-sign-request
 
 https://docs.openalex.org/download-all-data/download-to-your-machine
